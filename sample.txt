@@ -1,2 +1,11 @@
 hello world 
 this is using git through command line.
+
+hello! welcome to git cli
+
+Good Afternoon
+
+its raining heavily
+
+
+hello everyone
