@@ -1,3 +1,7 @@
+hey! we are developing banking app
+
+
+
 hello world 
 this is using git through command line.
 
